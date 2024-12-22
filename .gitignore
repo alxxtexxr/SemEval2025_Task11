@@ -1,4 +1,6 @@
 .trash
+_trash
 *.local.*
 data
 secret*
+.DS_Store
