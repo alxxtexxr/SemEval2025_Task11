@@ -1,5 +1,4 @@
 .trash
-_trash
 *.local.*
 data
 secret*
@@ -7,3 +6,4 @@ secret*
 test
 submissions
 evaluations
+_*
